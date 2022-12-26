@@ -1,0 +1,16 @@
+.inputWidth {
+  width: 60%;
+}
+.resendOTP {
+  color: rgb(0, 140, 255);
+  cursor: pointer;
+  margin-left: 10px;
+}
+.resendOTP:hover {
+  text-decoration: underline;
+}
+@media only screen and (max-width: 768px) {
+  .inputWidth {
+    width: 100%;
+  }
+}

@@ -1,0 +1,43 @@
+.inputArea .MuiOutlinedInput-inputMarginDense {
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    height: 25px;
+}
+.navListArea .css-1ghp7qq-MuiButtonBase-root-MuiListItemButton-root {
+    min-width: 0;
+    box-sizing: border-box;
+    text-align: left;
+    padding-top: 4px;
+ 
+    padding-left: 16px;
+    /* padding-right: 16px; */
+    /* padding-top: 0px; */
+    padding-bottom: 0px;
+    justify-content: center!important;
+    text-align: center;
+}
+.navListArea .css-cveggr-MuiListItemIcon-root {
+    min-width: 0px;
+    color: rgba(0, 0, 0, 0.90);
+ 
+}
+.navListArea .css-1yyfqpa-MuiStack-root-MuiList-root {
+    padding-top: 0px; 
+     padding-bottom: 0px;
+}
+.navListArea .css-10yk44k-MuiListItemText-root {
+    min-width: 0;
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    color: #777;
+    font-size: 9px;
+}
+.navListArea span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
+    font-size: 17px;
+    font-weight: 400;
+}
+.MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0, 0, 0, 0.23);
+    padding-top: 0px;
+    top: 0px;
+}
